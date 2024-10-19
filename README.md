@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudeepsigarakanti
+- 👋 Hi, I’m sudeep sigarakanti
 - 👀 I’m interested in traveling
 - 🌱 I’m currently learning DSA using c++
 - 
